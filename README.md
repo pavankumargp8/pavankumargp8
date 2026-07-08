@@ -1,5 +1,5 @@
 # 💫 About Me:
-Here is a shorter, punchier version for your GitHub profile based on your resume:<br><br>* 🔭 **I'm currently working on** Medical AI (Brain Tumor Segmentation) and full-stack web apps.<br>* 👯 **I'm looking to collaborate on** Deep Learning and LLM-powered projects.<br>* 🌱 **I'm currently learning** Advanced image segmentation and AI automation.<br>* 💬 **Ask me about** Python, C++, React, and building AI tools.<br>* ⚡ **Fun fact** I love applying my skills in hackathons like the MONAITHON!
+ 🔭 **I'm currently working on** Medical AI (Brain Tumor Segmentation) and full-stack web apps.<br>* 👯 **I'm looking to collaborate on** Deep Learning and LLM-powered projects.<br>* 🌱 **I'm currently learning** Advanced image segmentation and AI automation.<br>* 💬 **Ask me about** Python, C++, React, and building AI tools.<br>* ⚡ **Fun fact** I love applying my skills in hackathons like the MONAITHON!
 
 
 ## 🌐 Socials:
