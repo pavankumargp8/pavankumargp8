@@ -18,16 +18,16 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **Medical AI (Brain Tumor Segmentation)** and full-stack web applications
-- 👯 Looking to collaborate on **Deep Learning** and **LLM-powered** projects
-- 🌱 Currently learning **advanced image segmentation** and **AI automation**
-- 💬 Ask me about **Python, C++, React**, and building AI tools
-- ⚡ Fun fact: I love applying my skills in hackathons like **MONAITHON**!
-- 🎓 B.E. in Computer Science Engineering @ PESITM Shivamogga (VTU) — Class of 2027
+-  Currently working on **Medical AI (Brain Tumor Segmentation)** and full-stack web applications
+-  Looking to collaborate on **Deep Learning** and **LLM-powered** projects
+-  Currently learning **advanced image segmentation** and **AI automation**
+-  Ask me about **Python, C++, React**, and building AI tools
+-  Fun fact: I love applying my skills in hackathons like **MONAITHON**!
+-  B.E. in Computer Science Engineering @ PESITM Shivamogga (VTU) — Class of 2027
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 
@@ -76,7 +76,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=pavankumargp8&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
@@ -93,15 +93,12 @@
 
 ---
 
-### 🐍 Contribution Snake
+###  Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pavankumargp8/pavankumargp8/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> Note: the snake animation above requires a one-time GitHub Actions setup in your profile repo — see the setup steps below.
-
----
 
 <div align="center">
 
